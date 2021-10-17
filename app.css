@@ -27,3 +27,10 @@ body{
     background-size:cover;
     margin: 0 auto;
 }
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
